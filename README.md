@@ -7,7 +7,7 @@ The final assignment from Express.js Tutorial.docx: list products and add a prod
 From the workspace terminal:
 
 ```powershell
-cd "express tutorial/express-tutorial"
+cd "ExpressJS"
 npm install
 npm start
 ```
